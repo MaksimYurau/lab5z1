@@ -130,6 +130,7 @@
     <ClCompile Include="lab5z1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CustomException.h" />
     <ClInclude Include="DRList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

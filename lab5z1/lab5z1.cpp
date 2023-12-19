@@ -14,6 +14,7 @@
 #include <iostream>
 #include <string>
 #include "DRList.h"
+#include "CustomException.h"
 #include <vector>
 
 containers::DRList<int> foo(containers::DRList<int> x) {
